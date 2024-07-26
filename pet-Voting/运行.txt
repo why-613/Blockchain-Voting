@@ -1,0 +1,3 @@
+truffle compile
+truffle migrations
+npm run dev
